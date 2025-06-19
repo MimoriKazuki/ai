@@ -18,7 +18,10 @@
       "Bash(npx tailwindcss:*)",
       "Bash(rm:*)",
       "Bash(ls:*)",
-      "Bash(PORT=3001 npm run dev)"
+      "Bash(PORT=3001 npm run dev)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ],
     "deny": []
   }
